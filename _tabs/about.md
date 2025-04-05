@@ -35,8 +35,6 @@ When I'm not immersed in technology, I love exploring:
 - **Website**: [wlan0.in](https://wlan0.in)
 - **GitHub**: [ankitprasad2005](https://github.com/ankitprasad2005)
 - **LinkedIn**: [ankitprasad2005](https://www.linkedin.com/in/ankitprasad2005/)
-- **Email**: [ankitprasad2005@outlook.com](mailto:ankitprasad2005@outlook.com)
-- **Phone**: +91 9426853404
 
 ---
 
