@@ -78,7 +78,8 @@ sudo dnf install docker
 sudo pacman -S docker
 ```
 Running docker daemon
-```bash## PLS DONT USE THS
+```bash
+## PLS DONT USE THS
 sudo systemctl enable --now docker.service
 ```
 
@@ -99,13 +100,13 @@ docker help
 2. Current running docker processes (containers) 🏃
 ```bash
 docker ps
-
 docker ps -a
 ```
-- ```-a```  -->  to get all the running containers
-- ```-q```  -->  to get just the container id
 
-3. Stopping and Removing 🛑
+- `-a`  -->  to get all the running containers
+- `-q`  -->  to get just the container id
+
+1. Stopping and Removing 🛑
 ```bash
 docker stop [container_id]
 docker rm [docker_id]
@@ -131,11 +132,11 @@ docker build -t [image_name] [dir_of_Dockerfile]
 docker run --nane [container_name] [image_name]
 ```
 
-- can add ```-rm``` for stooping and removing docker as u exit
-- can add ```-d``` for detaching it from terminal after running (if ur using default bridge network)
-- add ```-p [host_port]:[docker_port]``` for mapping a specific docker port to host port
+- can add `-rm` for stooping and removing docker as u exit
+- can add `-d` for detaching it from terminal after running (if ur using default bridge network)
+- add `-p [host_port]:[docker_port]` for mapping a specific docker port to host port
 
-3. For executing something inside docker image 🖱️
+1. For executing something inside docker image 🖱️
 ```bash
 docker exec [file/command_wanna_run] [container_name]
 ```
@@ -192,11 +193,10 @@ docker volume list
 docker colume inspect [volume_name]
 ```
 
-3. mount
+3. mount  
 ```bash
 # for mounting docker volume 
 docker run -v [volume_name]:[path_in_container] [docker_image]
-
 # for mounting host directry
 docker run -v "[host_directry]":[volume_name] [docker_image]
 ```
@@ -204,7 +204,6 @@ docker run -v "[host_directry]":[volume_name] [docker_image]
 4. remove
 ```bash
 docker volume rm [volume_name]
-
 docker volume prune   # to remove all unused volumes
 ```
 
@@ -231,14 +230,12 @@ docker network disconect [network_name] [container_name]
 2. List & Inspect
 ```bash
 docker network ls
-
 docker inspect [network_name]
 ```
 
 3. Delete network
 ```bash
 docker network rm [network_name]
-
 doceker network prune    #delete all unused network
 ```
 
@@ -354,7 +351,7 @@ Common paramaters:
 ----
 
 ## Sources
-1. https://docs.docker.com/
-2. https://dockerlabs.collabnix.com/
-3. https://www.docker.com/blog/
-4. https://docs.portainer.io/
+1. [docs.docker.com](https://docs.docker.com/)
+2. [dockerlabs.collabnix.com](https://dockerlabs.collabnix.com/)
+3. [www.docker.com/blog](https://www.docker.com/blog/)
+4. [docs.portainer.io](https://docs.portainer.io/)
