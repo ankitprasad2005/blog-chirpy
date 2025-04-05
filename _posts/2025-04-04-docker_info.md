@@ -5,7 +5,7 @@ date: 2024-07-04 14:10:00 +0530
 categories: [Docker, Guide]
 tags: [Guide, Cheat Sheet]
 render_with_liquid: true
-image: assets/img/blog/docker-1.png
+image: /assets/img/blog/docker-1.png
 ---
 
 Docker
