@@ -4,7 +4,7 @@ author: ankitprasad2005
 layoyt: post
 date: 2024-07-04 14:10:00 +0530
 categories: [Docker, Guide]
-tags: [Guide, Cheat Sheet]
+tags: [Docker, DevOps, Guide, Cheat Sheet]
 render_with_liquid: true
 image: assets/img/blog/docker-1.png
 ---
