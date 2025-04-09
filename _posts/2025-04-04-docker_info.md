@@ -3,10 +3,10 @@ title: Guide to Docker
 author: ankitprasad2005
 layoyt: post
 date: 2024-07-04 14:10:00 +0530
-categories: [Docker, Guide]
+categories: [Guide, Docker]
 tags: [Docker, DevOps, Guide, Cheat Sheet]
 render_with_liquid: true
-image: assets/img/blog/docker-1.png
+image: assets/blog/docker_info/docker-1.png
 ---
 
 Docker
