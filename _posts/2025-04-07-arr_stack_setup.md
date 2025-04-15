@@ -2,7 +2,7 @@
 title: Setting up *ARR stack
 author: ankitprasad2005
 layoyt: post
-date: 2024-07-04 14:10:00 +0530
+date: 2025-07-04 14:10:00 +0530
 categories: [Self Hosted, Arr Stack]
 tags: [Guide, Arr Stack, Media Server, Self Hosted, DevOps]
 render_with_liquid: true
