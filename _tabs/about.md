@@ -9,6 +9,13 @@ Hello! I'm Ankit Prasad, a DevOps enthusiast with a deep passion for technology 
 
 ---
 
+## Connect with Me
+- **Website**: [wlan0.in](https://wlan0.in)
+- **GitHub**: [ankitprasad2005](https://github.com/ankitprasad2005)
+- **LinkedIn**: [ankitprasad2005](https://www.linkedin.com/in/ankitprasad2005/)
+
+---
+
 ## Professional Highlights
 - **DevOps Expertise**: Adept at tools like Docker, Kubernetes, Terraform, Ansible, and CI/CD pipelines. Skilled in reverse proxying and container runtime environments.
 - **Programming Knowledge**: Proficient in Python, C/C++, Java, Golang, Rust, and shell scripting. I embrace innovation in software development.
@@ -30,12 +37,4 @@ When I'm not immersed in technology, I love exploring:
 - **Theory of Logic**: Engaging in philosophical and logical reasoning, striving for clarity and deeper understanding.
 
 ---
-
-## Connect with Me
-- **Website**: [wlan0.in](https://wlan0.in)
-- **GitHub**: [ankitprasad2005](https://github.com/ankitprasad2005)
-- **LinkedIn**: [ankitprasad2005](https://www.linkedin.com/in/ankitprasad2005/)
-
----
-
 
